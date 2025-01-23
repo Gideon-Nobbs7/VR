@@ -18,6 +18,7 @@ RUN npm run build
 
 # Install a simple server for serving static content
 RUN npm install -g serve
+    
 
 # Serve the build directory
-CMD serve -s dist -l $PORT
+CMD ["serve", "-s", "dist", "-l", "3000"]
