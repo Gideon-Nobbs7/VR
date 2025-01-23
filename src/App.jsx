@@ -1,5 +1,7 @@
 import { useState } from 'react'
 import './App.css'
+import bear1 from "../public/images/bear1.jpg"
+import bear2 from "../public/images/bears2.jpg"
 
 
 const phrases = [
@@ -35,7 +37,7 @@ function App() {
         <>
           <img
             alt="bears kissing"
-            src="/images/bears2.jpg"
+            src={bear2}
           />
           <div className="text">Yayyyyy!!!!</div>
         </>
@@ -43,7 +45,7 @@ function App() {
         <>
           <img
             alt="bear with hearts"
-            src="/images/bear1.jpg"
+            src={bear1}
           />
           
           <div>Will you be my valentine?</div>
