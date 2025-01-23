@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
-import bear1 from "../public/images/bear1.jpg"
-import bear2 from "../public/images/bears2.jpg"
+import bear1 from "../public/bear1.jpg"
+import bear2 from "../public/bears2.jpg"
 
 
 const phrases = [
