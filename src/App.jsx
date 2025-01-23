@@ -35,7 +35,7 @@ function App() {
         <>
           <img
             alt="bears kissing"
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0eBYynT_gghHTj2kbyGTpxnmNloadT7uU8w&usqp=CAU"
+            src="/images/bears2.jpg"
           />
           <div className="text">Yayyyyy!!!!</div>
         </>
@@ -43,7 +43,7 @@ function App() {
         <>
           <img
             alt="bear with hearts"
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQck6dDM36K_O2-ZRA0rdYKkZaYBVkOWNJzqeel3UXbWsmk3FW_MbY8hepx7Xh-PqeYk0&usqp=CAU"
+            src="/images/bear1.jpg"
           />
           
           <div>Will you be my valentine?</div>
